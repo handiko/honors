@@ -49,3 +49,6 @@ For my achievements during year of 2016, I won the 1st Place - Rookie of the Yea
 * [Wireless Institute of Australia](http://www.wia.org.au/)
 * [New Zealand Association od Radio Transmitters](http://www.nzart.org.nz/)
 * [YB Land DX Club](https://www.ybdxc.net/)
+
+![](./ocdx.jpg)
+![](./wpxcw.png)

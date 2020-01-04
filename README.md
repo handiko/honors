@@ -42,10 +42,10 @@ This contest is held by Wireless Institute of Australia (WIA) and New Zealand As
 For my achievements during year of 2016, I won the 1st Place - Rookie of the Year Winner Plaque sponsored by the YB Land DX Club.
 
 ## Links
-[CQ WW DX Contest](https://cqww.com/)
-[CQ WPX Contest](https://cqwpx.com/)
-[CQ WPX RTTY Contest](https://cqwpxrtty.com/)
-[Oceania DX Contest](http://www.oceaniadxcontest.com/index.html)
-[Wireless Institute of Australia](http://www.wia.org.au/)
-[New Zealand Association od Radio Transmitters](http://www.nzart.org.nz/)
-[YB Land DX Club](https://www.ybdxc.net/)
+* [CQ WW DX Contest](https://cqww.com/)
+* [CQ WPX Contest](https://cqwpx.com/)
+* [CQ WPX RTTY Contest](https://cqwpxrtty.com/)
+* [Oceania DX Contest](http://www.oceaniadxcontest.com/index.html)
+* [Wireless Institute of Australia](http://www.wia.org.au/)
+* [New Zealand Association od Radio Transmitters](http://www.nzart.org.nz/)
+* [YB Land DX Club](https://www.ybdxc.net/)
